@@ -1,9 +1,4 @@
-# MLP_NN
+# DeepLearning
 
-Task for Deep Learning course 
+Tasks for a part of Deep Learning course 
 
-MLP neural network with TensorFlow Subclassing API
-
-With own implementation of Layer and Model functionalities
-
-For ciphar dataset
